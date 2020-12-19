@@ -75,8 +75,8 @@
 现代世界是复杂多变的，学习内容所处的环境越多，学习者创造的抽象模型越多，对特定环境的依赖越少，更容易将已有知识运用到全新的环境中——创造力。
 the more constrained and repetitive a challenge, the more likely it will be automated, while great rewards will accrue to those who can take conceptual knowledge from one porblem or domain and apply it in an entirely new one.
 两种提升创造力的训练：
-类比——外部观点与当下问题存在深层次的关联，但行业专家容易对表面差异化特征敏感容器陷入局部最优。如通过军队攻占堡垒与采水灭火的故事联想到如何解决肿瘤问题。
-费米问题——一种对未知事物进行评估的方案，通过拆分、统计确定上下界，粗略建立未知问题的标尺。
+1 类比—— 外部观点与当下问题存在深层次的关联，但行业专家容易对表面差异化特征敏感容器陷入局部最优。如通过军队攻占堡垒与采水灭火的故事联想到如何解决肿瘤问题。
+2 费米问题—— 一种对未知事物进行评估的方案，通过拆分、统计确定上下界，粗略建立未知问题的标尺。
 ```
 - 通才与专才的适用领域(by cdxy)  
 ```
