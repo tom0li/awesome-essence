@@ -123,3 +123,4 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 ### 趋势
 ---
 - [2021年达摩院十大科技趋势](https://alibabadamo.oss-cn-beijing.aliyuncs.com/887844a101d606f9c1c63b0caaeeff76/2021%E5%B9%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF.pdf?OSSAccessKeyId=LTAIXqHWeRlR2NU8&Expires=1609240599&Signature=mGz5MoBUQyhXrneM%2Fmd4Byit%2Bjs%3D)
+- [2020年十大技术趋势](https://damo.alibaba.com/events/58)
