@@ -106,3 +106,4 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 - 生存才是硬道理 - by tom0li <br>
 - 不管是月、周、还是日，花十分钟梳理出这个时间段最重要的三件事，将90%的精力放在这三件事上，其他的just let it go. 工作可以做不完，但一定要把握住工作重心。事情应该做精做细，做得有亮点。质量永远比数量重要。 - by zuozuoweila
 - 小步快跑 - by tencent
+- 什么是真实的，什么是虚假的 - by tom0li
