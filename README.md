@@ -112,6 +112,20 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 在稳定、狭窄、规则明确的领域里，机器智能能发挥更大的作用，类似棋类运动。
 ```
 
+- 思维活跃度(by 老蒋)(很多地方不谋而合，比如信息量、建模型、收回时间学习、写作)：  
+1.思考一个问题的沉浸状态，有多深，有多广  
+2.有足够多的信息量（思维素材）  
+3.能够搭建完善的思维框架和结构化 
+   建议  
+1.提高对人文社科的思考（25岁前）  
+2.每天利用碎片化时间进行思考  
+3.信息量可以碎片化，搭建思维框架不能碎片化  
+4.读书是反复的权衡，揣摩，推演  
+5.读什么书：启蒙时代的书，介于教科书和大众读物之间的书籍  
+6.具备一定的创作和写作的能力  
+      可以分辨信息的真伪 信息质量的差异和创作者的意图  
+      表达方式本身影响你的思维过程（现在年轻人的碎片化表达）  
+
 ## 科技趋势
 ---
 - [2021年达摩院十大科技趋势](https://alibabadamo.oss-cn-beijing.aliyuncs.com/887844a101d606f9c1c63b0caaeeff76/2021%E5%B9%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF.pdf?OSSAccessKeyId=LTAIXqHWeRlR2NU8&Expires=1609240599&Signature=mGz5MoBUQyhXrneM%2Fmd4Byit%2Bjs%3D)
