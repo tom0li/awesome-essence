@@ -26,6 +26,7 @@ Table of Contents
     - [为什么在公司](#为什么在公司)
   - [心理学](#心理学)
     - [人类误判心理学](#人类误判心理学)
+  - [销售](#销售)
   - [给自己记录(不是给其他人看的，缺少很多内容)](#给自己记录不是给其他人看的缺少很多内容)
     - [非业务](#非业务)
     - [住房攻略](#住房攻略)
@@ -804,6 +805,10 @@ leader也是人嘛，是人，当然就有正常沟通的需要，只要不是�
 25、重视理由倾向
 ```
 https://www.cnblogs.com/LittleHann/p/14337907.html
+
+## 销售
+- [市场营销：管理盈利性客户关系](https://www.cnblogs.com/LittleHann/p/14363067.html#)
+- [营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
 
 ## 给自己记录(不是给其他人看的，缺少很多内容)
