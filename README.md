@@ -16,7 +16,7 @@ Table of Contents
       - [关于master和phd(by tom0li)](#关于master和phdby-tom0li)
       - [关于快乐(by tom0li)](#关于快乐by-tom0li)
       - [关于未来安全(by tom0li)](#关于未来安全by-tom0li)
-      - [关于灾难](#关于灾难)
+      - [关于灾难(by lcamtuf)](#关于灾难by-lcamtuf)
       - [EXP语录](#exp语录)
       - [搞站](#搞站)
       - [思维习惯(不是我说的)](#思维习惯不是我说的)
@@ -78,7 +78,7 @@ Table of Contents
 快乐是可以生产的
 #### 关于未来安全(by tom0li)  
 以后占据人类大量时间的虚拟世界，研究脑机安全、云基础设施安全比较有趣
-#### 关于灾难  
+#### 关于灾难(by lcamtuf)
 请看lcamtuf师傅的计划 [https://lcamtuf.coredump.cx/prep/ 、 https://www.jefftk.com/p/disasters
 #### EXP语录  
 认清事情，这个事情要不要干，价值大不大？  
