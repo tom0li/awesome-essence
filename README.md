@@ -838,7 +838,10 @@ leader也是人嘛，是人，当然就有正常沟通的需要，只要不是�
 https://www.cnblogs.com/LittleHann/p/14337907.html
 
 ### 经济学
-书籍
+书
+- [对供给侧结构性改革问题的一些笔记和思考
+](https://www.cnblogs.com/LittleHann/p/14449017.html) -by 郑瀚
+
 
 ## 自然科学
 ### 科技趋势
