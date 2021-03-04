@@ -31,6 +31,7 @@ Table of Contents
     - [台湾战争(by tom0li)](#台湾战争by-tom0li)
     - [楼市(by tom0li)](#楼市by-tom0li)
     - [gme事件(by tom0li)](#gme事件by-tom0li)
+    - [爱情](#爱情)
   - [艺术](#艺术)
   - [历史](#历史)
   - [职场](#职场)
@@ -181,6 +182,10 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 ### 楼市(by tom0li)
 对公民而言总体稳。有些地方已经说的比较明白
 ### gme事件(by tom0li)  
+
+### 爱情
+看希腊哲学家谈爱情，结伴是为了 双方都变成更好的人  
+培根谈结婚: 妻子是青年时的情人，中年时的伴侣，老年时的保姆
 
 ## 艺术
 
