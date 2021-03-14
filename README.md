@@ -36,6 +36,7 @@ Table of Contents
     - [楼市(by tom0li)](#楼市by-tom0li)
     - [gme事件(by tom0li)](#gme事件by-tom0li)
     - [爱情](#爱情)
+    - [结婚生子(by tom0li)](#结婚生子by-tom0li)
     - [寻找优质资源途径(by tom0li)](#寻找优质资源途径by-tom0li)
   - [艺术](#艺术)
   - [历史](#历史)
@@ -196,6 +197,9 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 ### 爱情
 看希腊哲学家谈爱情，结伴是为了 双方都变成更好的人  
 培根谈结婚: 妻子是青年时的情人，中年时的伴侣，老年时的保姆
+
+### 结婚生子(by tom0li)
+我是想增加稳定性和双方成为更好的自己, 找伴侣和生子
 
 ### 寻找优质资源途径(by tom0li)
 寻找优质资源，途径是找优质资源载体，优秀的人、优秀的书、优秀的论文、优秀的软件、优秀的音频视频、优秀的文章等等，现存不多也够学。
