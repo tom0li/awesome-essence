@@ -1,8 +1,8 @@
  Awesome-Essence
 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些形式科学（如数学）, 研究抽象概念; 自然科学（如生物学、物理学、医学）, 在最宽泛的意义上研究自然; 以及社会科学（如经济学、心理学、社会学）, 研究个体与社会.
 
-![beeple的画](https://www.christies.com/img/LotImages/2021/NYR/2021_NYR_20447_0001_001(beeple_everydays_the_first_5000_days034733).jpg?mode=max) 
-Created over 5,000 days by the groundbreaking artist, this monumental collage was the first purely digital artwork (NFT) ever offered at Christie’s
+![beeple的画](https://www.christies.com/img/LotImages/2021/NYR/2021_NYR_20447_0001_001(beeple_everydays_the_first_5000_days034733).jpg)
+Created over 5,000 days by the groundbreaking artist, this monumental collage was the first purely digital artwork (NFT) ever offered at Christie’s  
 
 ```
 声明: 本仓库本意是自己看的, 能给他人或她人带来一些思考是一种荣幸, 如果不能也没有关系
