@@ -62,7 +62,6 @@ Table of Contents
     - [为什么不放开生育(by tom0li 待补充)](#为什么不放开生育by-tom0li-待补充)
     - [台湾战争(by tom0li)](#台湾战争by-tom0li)
     - [楼市(by tom0li)](#楼市by-tom0li)
-    - [gme事件(by tom0li)](#gme事件by-tom0li)
     - [爱情](#爱情)
     - [结婚生子(by tom0li)](#结婚生子by-tom0li)
     - [寻找优质资源途径(by tom0li)](#寻找优质资源途径by-tom0li)
@@ -266,6 +265,7 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 
 - [2021年达摩院十大科技趋势](https://alibabadamo.oss-cn-beijing.aliyuncs.com/887844a101d606f9c1c63b0caaeeff76/2021%E5%B9%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF.pdf?OSSAccessKeyId=LTAIXqHWeRlR2NU8&Expires=1609240599&Signature=mGz5MoBUQyhXrneM%2Fmd4Byit%2Bjs%3D)
 - [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
+- 元宇宙
 
 ## 医学
 
@@ -387,8 +387,8 @@ the more constrained and repetitive a challenge, the more likely it will be auto
 为什么买房  
 假如在国内上学  
 房子使用权  
+2010年后房子质量在70年之上  
 15年换一次新房  
-### gme事件(by tom0li)  
 
 ### 爱情
 看希腊哲学家谈爱情，结伴是为了 双方都变成更好的人  
