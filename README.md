@@ -37,6 +37,8 @@ Table of Contents
     - [市场营销](#市场营销)
 - [自然科学](#自然科学)
   - [科技趋势](#科技趋势)
+  - [量子信息](#量子信息)
+  - [元宇宙](#元宇宙)
   - [医学](#医学)
   - [生物学](#生物学)
     - [从生物学理解演讲](#从生物学理解演讲)
@@ -263,9 +265,24 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 # 自然科学
 ## 科技趋势
 
-- [2021年达摩院十大科技趋势](https://alibabadamo.oss-cn-beijing.aliyuncs.com/887844a101d606f9c1c63b0caaeeff76/2021%E5%B9%B4%E8%BE%BE%E6%91%A9%E9%99%A2%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF.pdf?OSSAccessKeyId=LTAIXqHWeRlR2NU8&Expires=1609240599&Signature=mGz5MoBUQyhXrneM%2Fmd4Byit%2Bjs%3D)
+- [2021年达摩院十大科技趋势](https://damo.alibaba.com/techtrends/)
 - [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
-- 元宇宙
+- [List_of_emerging_technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies#Agriculture)
+- [nature](https://www.nature.com/) 最早的科学期刊之一
+- [science](https://www.sciencemag.org/) 全世界最权威的学术杂志之一
+- [cell](https://www.cell.com/) 生物学顶刊
+
+## 量子信息
+已经应用
+量子通信 - 量子卫星
+量子传感 - 精准灵敏测量等
+
+实验阶段
+量子计算 - 处理特定任务，量子霸权实现，通用计算机需要几十年才能应用
+
+## 元宇宙
+
+
 
 ## 医学
 
