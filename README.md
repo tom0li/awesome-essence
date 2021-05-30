@@ -42,6 +42,7 @@ Table of Contents
   - [医学](#医学)
   - [生物学](#生物学)
     - [从生物学理解演讲](#从生物学理解演讲)
+    - [why do we have sex](#why-do-we-have-sex)
 - [给自己记录(不是给其他人看的，缺少很多内容)](#给自己记录不是给其他人看的缺少很多内容)
   - [观点](#观点)
     - [关于赚钱(by tom0li)](#关于赚钱by-tom0li)
@@ -312,6 +313,12 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 ```
 - [《金字塔原理》笔记](https://www.cnblogs.com/LittleHann/p/14557776.html)
 
+### why do we have sex
+翻看一些期刊论文，文章是以科学出发论述的，从还原论建构主义出发，依旧没有回答why do we have sex、why reproduce
+* [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
+* [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
+
+-----
 
 # 给自己记录(不是给其他人看的，缺少很多内容)
 ## 观点
