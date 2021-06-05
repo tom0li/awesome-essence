@@ -42,6 +42,7 @@ Table of Contents
   - [人工智能](#人工智能)
   - [区块链](#区块链)
   - [培植肉](#培植肉)
+  - [Energy_harvesting](#energy_harvesting)
   - [医学](#医学)
   - [生物学](#生物学)
     - [从生物学理解演讲](#从生物学理解演讲)
@@ -276,6 +277,8 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 - [nature](https://www.nature.com/) 最早的科学期刊之一
 - [science](https://www.sciencemag.org/) 全世界最权威的学术杂志之一
 - [cell](https://www.cell.com/) 生物学顶刊
+- [darpa](https://www.darpa.mil/) 美国国防高等研究计划署
+- [WE大会](https://we.tencent.com/review.html) 腾讯科技WE大会
 
 ### 元宇宙
 计算的未来30年：2050大会分享实录 - by 道哥  
@@ -290,7 +293,7 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 ## 量子信息
 已经应用  
 量子通信 - 量子卫星  
-量子传感 - 精准灵敏测量等  
+量子传感 - 精准灵敏测量量子雷达、原子钟等  
 
 实验阶段  
 量子计算 - 处理特定任务，量子霸权实现，通用计算机预计需要几十年才能应用  
@@ -311,6 +314,9 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 
 ## 培植肉
 高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
+
+## Energy_harvesting
+
 
 ## 医学
 
