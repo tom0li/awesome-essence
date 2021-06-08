@@ -37,16 +37,24 @@ Table of Contents
     - [市场营销](#市场营销)
 - [自然科学](#自然科学)
   - [科技趋势](#科技趋势)
-    - [元宇宙](#元宇宙)
-  - [量子信息](#量子信息)
-  - [人工智能](#人工智能)
+  - [元宇宙](#元宇宙)
   - [区块链](#区块链)
-  - [培植肉](#培植肉)
-  - [Energy_harvesting](#energy_harvesting)
+  - [人工智能](#人工智能)
+  - [神经科学](#神经科学)
+  - [交互设备](#交互设备)
+    - [脑机接口](#脑机接口)
+    - [穿戴设备](#穿戴设备)
+  - [航空航天](#航空航天)
+  - [宇宙学](#宇宙学)
+  - [外来物种](#外来物种)
+  - [时间学](#时间学)
+  - [量子信息](#量子信息)
   - [医学](#医学)
   - [生物学](#生物学)
     - [从生物学理解演讲](#从生物学理解演讲)
     - [why do we have sex](#why-do-we-have-sex)
+  - [培植肉 人造蛋](#培植肉-人造蛋)
+  - [Energy_harvesting](#energy_harvesting)
 - [给自己记录(不是给其他人看的，缺少很多内容)](#给自己记录不是给其他人看的缺少很多内容)
   - [观点](#观点)
     - [关于赚钱(by tom0li)](#关于赚钱by-tom0li)
@@ -176,7 +184,7 @@ A strategy is a long term plan of action designed to achieve a particular goal. 
 - 伟大的批判艺术家 - 姜文
 
 #### 绘画
-
+https://artsandculture.google.com/
 #### 设计
 
 #### 舞蹈
@@ -270,17 +278,16 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 
 # 自然科学
 ## 科技趋势
-
-- [2021年达摩院十大科技趋势](https://damo.alibaba.com/techtrends/)
-- [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
 - [List_of_emerging_technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies#Agriculture)
 - [nature](https://www.nature.com/) 最早的科学期刊之一
 - [science](https://www.sciencemag.org/) 全世界最权威的学术杂志之一
 - [cell](https://www.cell.com/) 生物学顶刊
 - [darpa](https://www.darpa.mil/) 美国国防高等研究计划署
 - [WE大会](https://we.tencent.com/review.html) 腾讯科技WE大会
+- [2021年达摩院十大科技趋势](https://damo.alibaba.com/techtrends/)
+- [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
 
-### 元宇宙
+## 元宇宙
 计算的未来30年：2050大会分享实录 - by 道哥  
 文章阐述道哥目前在做的工作，类似知识库，把现实世界和虚拟世界各种数据输入不断建立联系，拥有存储和推算能力并自动更新迭代  
 - [计算的未来30年](https://mp.weixin.qq.com/s/Mr0a5vV_ym14GiamJn0MvQ)
@@ -288,18 +295,7 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 虚拟世界对现实世界经济影响，梳理历史中游戏经济演化过程，给出虚拟世界和现实世界货币交换规则，以及区块链在其中的应用场景。  
 - [隐藏在虚拟世界背后的经济学分析](https://mp.weixin.qq.com/s/o2WyQkbUuB2TSwGskPC3QQ)
 
-期望虚拟世界对劳动和生产对现实世界改造，期望未来世界
-
-## 量子信息
-已经应用  
-量子通信 - 量子卫星  
-量子传感 - 精准灵敏测量量子雷达、原子钟等  
-
-实验阶段  
-量子计算 - 处理特定任务，量子霸权实现，通用计算机预计需要几十年才能应用  
-
-## 人工智能
-还比较遥远，目前处于机器学习阶段
+期望虚拟世界对劳动和生产对现实世界改造，期望未来世界  
 
 ## 区块链
 虚拟世界价值  
@@ -312,11 +308,33 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 
 NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 
-## 培植肉
-高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
+## 人工智能
+还比较遥远，目前处于机器学习阶段
+## 神经科学
+- [凝眸 blog](https://neuromoment.cn/)
 
-## Energy_harvesting
+脑人言公众号  
 
+## 交互设备
+### 脑机接口
+### 穿戴设备
+
+## 航空航天
+星际探测
+
+## 宇宙学
+研究宇宙的物理起源及其演化
+## 外来物种
+
+## 时间学
+
+## 量子信息
+已经应用  
+量子通信 - 量子卫星  
+量子传感 - 精准灵敏测量量子雷达、原子钟等  
+
+实验阶段  
+量子计算 - 处理特定任务，量子霸权实现，通用计算机预计需要几十年才能应用
 
 ## 医学
 
@@ -351,6 +369,11 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 翻看一些期刊论文，文章是以科学出发论述的，从还原论建构主义出发，依旧没有回答why do we have sex、why reproduce
 * [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
 * [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
+
+## 培植肉 人造蛋
+高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
+
+## Energy_harvesting
 
 -----
 
