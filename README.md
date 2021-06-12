@@ -1190,9 +1190,11 @@ https://artsandculture.google.com/explore
 科幻小说  
 小说里的想象力，人类可以走到哪里
 
-and so on
+世博会
+
+and so on 资源
 
 何为旅游：探索本身  
 何为美好的旅游：探索本身  
 何为探索：实践  
-何为良好的探索：良好的实践  
+何为良好的探索：良好的实践本身  
