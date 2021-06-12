@@ -1181,7 +1181,7 @@ https://luolei.org/
 摄像头 动态视频  
 https://www.skylinewebcams.com/
 
-画展  
+艺术展  
 https://artsandculture.google.com/explore
 
 游戏  
@@ -1192,7 +1192,7 @@ https://artsandculture.google.com/explore
 
 and so on
 
-何为旅游：探索本身
-何为美好的旅游：探索本身
-何为探索：实践
-何为良好的探索：良好的实践
+何为旅游：探索本身  
+何为美好的旅游：探索本身  
+何为探索：实践  
+何为良好的探索：良好的实践  
