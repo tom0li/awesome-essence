@@ -286,7 +286,7 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 - [市场营销：管理盈利性客户关系](https://www.cnblogs.com/LittleHann/p/14363067.html#)
 - [营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
-# 自然科学
+# 自然科学(目前偏向创投圈)
 ## 科技趋势
 - [List_of_emerging_technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies#Agriculture)
 - [nature](https://www.nature.com/) 最早的科学期刊之一
@@ -353,9 +353,9 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 #### 量子因数分解
 光量子专用计算机已实现，研究问题是玻色子取样，效果是把指数增长的计算量缩减到了多项式增长的计算量  
 量子霸权实现  
-通用计算机还远  
+通用计算机还远, 方向不在通用计算, 偏向解决某些问题  
 #### 量子搜索
-降低计算数量级，看最终多个结果
+降低计算数量级，最终算出多个结果，概率
 ### 量子博弈
 
 ## 医学
