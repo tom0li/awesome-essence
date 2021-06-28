@@ -40,6 +40,8 @@ Table of Contents
   - [元宇宙](#元宇宙)
   - [区块链](#区块链)
   - [人工智能](#人工智能)
+    - [机器人](#机器人)
+      - [判断是否是机器人](#判断是否是机器人)
   - [神经科学](#神经科学)
   - [交互设备](#交互设备)
     - [脑机接口](#脑机接口)
@@ -61,6 +63,8 @@ Table of Contents
   - [生物学](#生物学)
     - [从生物学理解演讲](#从生物学理解演讲)
     - [why do we have sex](#why-do-we-have-sex)
+    - [灾难计划](#灾难计划)
+      - [末日计划](#末日计划)
   - [培植肉 人造蛋](#培植肉-人造蛋)
   - [Energy_harvesting](#energy_harvesting)
 - [给自己记录(不是给其他人看的，缺少很多内容)](#给自己记录不是给其他人看的缺少很多内容)
@@ -75,7 +79,6 @@ Table of Contents
     - [关于master和phd(by tom0li)](#关于master和phdby-tom0li)
     - [关于快乐(by tom0li)](#关于快乐by-tom0li)
     - [关于未来安全(by tom0li)](#关于未来安全by-tom0li)
-    - [关于灾难(by lcamtuf)](#关于灾难by-lcamtuf)
     - [EXP语录](#exp语录)
     - [搞站](#搞站)
     - [思维习惯(不是我说的)](#思维习惯不是我说的)
@@ -321,6 +324,11 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 
 ## 人工智能
 还比较遥远，目前处于机器学习阶段
+### 机器人
+#### 判断是否是机器人
+假设未来某一天交男女朋友，怎么判断是否是机器人?  
+
+
 ## 神经科学
 - [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 - [凝眸 blog](https://neuromoment.cn/)
@@ -395,10 +403,48 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 * [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
 * [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
 
+
+### 灾难计划
+#### 末日计划
+1 小灾难
+```
+破产
+获得水、食物、能源或交通的中断
+失去住所
+事故伤害
+故意伤害
+使人衰弱的疾病或死亡
+```
+2 大规模灾难
+```
+自然灾害
+工业事故
+社会动荡
+经济危机
+大流行病
+恐怖主义或常规战争
+```
+3 解决困难灾难
+```
+独特的致命疾病
+荒谬的极端天气异常
+极权主义技术反乌托邦
+全球热核战争
+决定杀死所有人类的机器人(这时sec的力量有了释放的地方)
+无礼的外星人
+生态系统崩溃
+宇宙碰撞
+Something with magnets (The Core, One Second After).
+```
+https://lcamtuf.coredump.cx/prep/  
+https://www.jefftk.com/p/disasters  
+
 ## 培植肉 人造蛋
 高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
 
 ## Energy_harvesting
+
+
 
 -----
 
@@ -439,8 +485,7 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 快乐是可以生产的
 ### 关于未来安全(by tom0li)  
 以后占据人类大量时间的虚拟世界，研究脑机安全、云基础设施安全比较有趣
-### 关于灾难(by lcamtuf)
-请看lcamtuf师傅的计划 [https://lcamtuf.coredump.cx/prep/ 、 https://www.jefftk.com/p/disasters
+
 ### EXP语录  
 认清事情，这个事情要不要干，价值大不大？  
 认清自己，这个事情我干不干的了，风险大不大？  
