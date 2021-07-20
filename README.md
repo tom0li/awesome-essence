@@ -390,11 +390,11 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 
 ## 神经科学&认知科学&脑科学
 - [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
-- [神经漫游播客](https://neuromancing.fireside.fm/)
+- [神经漫游播客](https://neuromancing.fireside.fm/) 定期几个学生和教授进行对话。神经现实是公益的科学传播组织，专注于神经科学、认知科学和精神病学等领域的深度报道和前沿解读。
+- [神经现实](https://www.neu-reality.com/)神经漫游门户 主要以文章形式展示
 - [凝眸 blog](https://neuromoment.cn/)
-- [美国认知科学协会](https://cognitivesciencesociety.org/)
+- [美国认知科学协会](https://cognitivesciencesociety.org/) Welcome to the Cognitive Science Society (CSS). The mission of the Society is to promote Cognitive Science as a discipline, and to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education.  
 脑人言公众号  
-神经现实公众号  
 
 ## 医学
 
