@@ -311,7 +311,7 @@ beyond
 任正非
 ```
 ### 润之
-
+https://github.com/tom0li/awesome-essence/blob/main/run.md
 
 ## 心理学
 ### 人类误判心理学
