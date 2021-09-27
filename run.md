@@ -13,6 +13,12 @@
     - [论持久战](#论持久战)
   - [教授讲话](#教授讲话)
 
+
+![](https://lh3.googleusercontent.com/ICG3o0i2AHhl3EoRSVoipVzFig2IJPiHHYGDGdzY4m3zD0BZuydQ2J1vUWIn0rkrrA=w1200)
+Monet: The Water Lily Pond  
+An in-painting tour from the National Gallery, London
+
+本页面是润信息源
 ```
 立大国之志，行伟人之事 -by tom0li
 ```
