@@ -1349,6 +1349,9 @@ https://artsandculture.google.com/explore
 比如看商务部指南  
 http://fec.mofcom.gov.cn/article/gbdqzn/index.shtml
 
+比如VR  
+https://www.youtube.com/channel/UCnO5ygba3vsJG9IeZLndaTQ
+
 and so on 资源
 
 
