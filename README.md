@@ -190,6 +190,7 @@ Table of Contents
 - 能量转化，重定向 美好生活，大脑是强弱。 - by tom0li
 - 过往不恋 - by 曾国藩
 - Cancel消极 - by tom0li
+- 向市场寻求力量，外包众包 - by tom0li
 
 王兴语录
 ```
