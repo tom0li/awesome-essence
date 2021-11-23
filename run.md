@@ -630,11 +630,12 @@ https://weiyinfu.cn/MaoZeDongAnthology/
 https://www.marxists.org/chinese/maozedong/index.htm
 
 ### 毛泽东文集
-https://www.xuexi.cn/d33532b98fe72a6a864d64aeac3d540d/e15740a2c58b549c28adaabd21aa90fa.html?p1=%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E9%9B%86
-
 http://marxistphilosophy.org/
 
-### 论持久战
+二十四史
+评古今人物
+读书生活
+
 
 ## 教授讲话
 沈志华  
