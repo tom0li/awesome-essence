@@ -27,7 +27,6 @@ An in-painting tour from the National Gallery, London
   - [书籍](#书籍)
     - [毛泽东选集](#毛泽东选集)
     - [毛泽东文集](#毛泽东文集)
-    - [论持久战](#论持久战)
   - [教授讲话](#教授讲话)
 
 ## 诗词
@@ -632,9 +631,9 @@ https://www.marxists.org/chinese/maozedong/index.htm
 ### 毛泽东文集
 http://marxistphilosophy.org/
 
-二十四史
-评古今人物
-读书生活
+二十四史  
+评古今人物  
+读书生活  
 
 
 ## 教授讲话
