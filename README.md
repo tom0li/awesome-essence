@@ -303,6 +303,9 @@ AI与哲学的发展
 老蒋
 
 毛泽东
+胡乔木
+李瑞环
+王沪宁
 曾国藩
 王阳明
 老子
@@ -1482,5 +1485,5 @@ https://headsalon.org/archives/8720.html
 日夜颠倒，换不完的药，挂水，测血糖，测血压记录，写交班，两万步左右，连班没时间吃饭
 
 ### 产品经理
-道哥对产品经理的定义，市场洞察能力，也是我经常提的要洞察世界内容之一。
+道哥对产品经理的定义，市场洞察能力，也是我经常提的要洞察世界内容之一。  
 https://mp.weixin.qq.com/s?src=11&timestamp=1638537719&ver=3474&signature=bTvxfqtEDoGR62a9F-9ASEttLJqYw49l3kdVpkpIVuoTn1nzdkBsDtWn0zbhnqCzBUSjcGEQBhcKOqy4BJlaW*W4WSIcMYHjGq5DwNJPRe61YZ-v7kL2cpyg2Jqy-5Wx&new=1
