@@ -31,6 +31,7 @@ Table of Contents
     - [历史人](#历史人)
     - [润之](#润之)
     - [wanghuning](#wanghuning)
+  - [社会学](#社会学)
   - [心理学](#心理学)
     - [人类误判心理学](#人类误判心理学)
     - [人们社交过程的部分弱点](#人们社交过程的部分弱点)
@@ -121,6 +122,7 @@ Table of Contents
     - [模特](#模特)
     - [客服](#客服)
     - [护士](#护士)
+    - [产品经理](#产品经理)
 
 # 哲学
 ### 哲学问题
@@ -371,6 +373,9 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 政治的人生
 比较政治分析
 
+## 社会学
+费孝通
+项飙
 
 ## 心理学
 ### 人类误判心理学
@@ -1475,3 +1480,7 @@ https://headsalon.org/archives/8720.html
 
 ### 护士
 日夜颠倒，换不完的药，挂水，测血糖，测血压记录，写交班，两万步左右，连班没时间吃饭
+
+### 产品经理
+道哥对产品经理的定义，市场洞察能力，也是我经常提的要洞察世界内容之一。
+https://mp.weixin.qq.com/s?src=11&timestamp=1638537719&ver=3474&signature=bTvxfqtEDoGR62a9F-9ASEttLJqYw49l3kdVpkpIVuoTn1nzdkBsDtWn0zbhnqCzBUSjcGEQBhcKOqy4BJlaW*W4WSIcMYHjGq5DwNJPRe61YZ-v7kL2cpyg2Jqy-5Wx&new=1
