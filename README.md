@@ -220,6 +220,7 @@ Table of Contents
 - 关于孤独，一个人独处是有很多好玩的事情，这个世界这么多好玩的，可以忽略孤独。- by tom0li
 - 联合好身体的每个细胞，团结协作，合众为一 是人类发展快的底层逻辑。玩也是。 - by tom0li
 - 平静、平静的内心 - by tom0li
+- 困难才是常态，困难才能铸就真正的好生活，痛苦才是快乐幸福。 - by tom0li
  
 王兴语录
 ```
@@ -1458,6 +1459,8 @@ http://fec.mofcom.gov.cn/article/gbdqzn/index.shtml
 
 比如VR  
 https://www.youtube.com/channel/UCnO5ygba3vsJG9IeZLndaTQ
+
+比如Google earth
 
 and so on 资源
 
