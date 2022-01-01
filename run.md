@@ -628,14 +628,19 @@ https://gitee.com/Kenneth-Lee-2012/daodejing_translation/tree/master/source
 https://weiyinfu.cn/MaoZeDongAnthology/  
 https://www.marxists.org/chinese/maozedong/index.htm
 
+湖南农民运动考察报告  
+丢掉幻想，准备斗争  
+征询对待富农策略问题的意见  
+论十大关系  
+美帝国主义是纸老虎  
 ### 毛泽东文集
 http://marxistphilosophy.org/
 
 二十四史  
 评古今人物  
 读书生活  
-大众哲学
-
+大众哲学  
+阿Q正传  
 
 ## 教授讲话
 沈志华  
