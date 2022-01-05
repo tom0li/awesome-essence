@@ -36,10 +36,12 @@ Table of Contents
     - [人类误判心理学](#人类误判心理学)
     - [人们社交过程的部分弱点](#人们社交过程的部分弱点)
   - [财经](#财经)
-    - [金融](#金融)
+    - [经济](#经济)
+      - [价值](#价值)
+      - [消费](#消费)
       - [博弈论](#博弈论)
+      - [市场营销](#市场营销)
     - [财政税务](#财政税务)
-    - [市场营销](#市场营销)
   - [人类学](#人类学)
 - [自然科学(目前偏向创投圈)](#自然科学目前偏向创投圈)
   - [科技趋势](#科技趋势)
@@ -356,6 +358,9 @@ AI与哲学的发展
 牛军    - 朝鲜战争 
 李丹慧  - 珍宝岛事件
 项飙    - 我要和你谈谈问题 
+kkndme
+冯军奇
+陈雨露
 
 王兴    - 好奇就是我，极其open的人
 王小川  -  典型理工男 
@@ -396,6 +401,7 @@ riusksk
 《斯诺登自传》  -你的信息我都知道，只是太多处理不了
 阿桑奇
 tk
+黑哥
 阮一峰
 lcamtuf
 碳机体
@@ -407,6 +413,7 @@ monyer
 小胡子
 beyond
 胖车库
+海得沙龙
 rct Ai
 赵冷
 袁岚峰
@@ -420,8 +427,8 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 
 ### wanghuning
 政治的人生  
-比较政治分析
-美国反对美国
+比较政治分析  
+美国反对美国  
 
 ## 社会学
 费孝通
@@ -480,14 +487,16 @@ https://www.cnblogs.com/LittleHann/p/14337907.html
 小结：人们社交过程的弱点是需要对目标信息收集，建立模型，这是一部分目标属性特征，人们不是单独生活的，环境对个体的影响也需要考虑
 
 ## 财经
-书
-
-### 金融
+书  
+中国是部金融史
+### 经济
 经济研究报告  
 https://www.economicprinciples.org/
 
+kkndme
 
-价值
+
+#### 价值
 
 1、物质  
 比如苹果   
@@ -496,15 +505,16 @@ https://www.economicprinciples.org/
 3、能量  
 比如精神能量：音乐 性等等  
 
+#### 消费
 
 #### 博弈论
 
+#### 市场营销
+- [市场营销：管理盈利性客户关系](https://www.cnblogs.com/LittleHann/p/14363067.html#)
+- [Marketing-for-Engineers 营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
+
     
 ### 财政税务
-
-### 市场营销
-- [市场营销：管理盈利性客户关系](https://www.cnblogs.com/LittleHann/p/14363067.html#)
-- [营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
 ## 人类学
 
