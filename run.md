@@ -27,7 +27,6 @@ An in-painting tour from the National Gallery, London
   - [书籍](#书籍)
     - [毛泽东选集](#毛泽东选集)
     - [毛泽东文集](#毛泽东文集)
-  - [教授讲话](#教授讲话)
 
 ## 诗词
 ### 离骚
@@ -642,8 +641,3 @@ http://marxistphilosophy.org/
 大众哲学  
 阿Q正传  
 
-## 教授讲话
-沈志华  
-高华  
-牛军  
-李丹慧  
