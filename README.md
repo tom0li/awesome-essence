@@ -31,6 +31,7 @@ Table of Contents
     - [历史人](#历史人)
     - [润之](#润之)
     - [wanghuning](#wanghuning)
+  - [法学](#法学)
   - [社会学](#社会学)
   - [心理学](#心理学)
     - [人们社交过程的部分弱点](#人们社交过程的部分弱点)
@@ -450,6 +451,9 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 比较政治分析  
 美国反对美国  
 
+## 法学
+文书网
+
 ## 社会学
 费孝通
 项飙
@@ -476,14 +480,16 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 小结：人们社交过程的弱点是需要对目标信息收集，建立模型，这是一部分目标属性特征，人们不是单独生活的，环境对个体的影响也需要考虑
 
 ## 财经
-书  
-中国是部金融史
 ### 经济
-经济研究报告  
-https://www.economicprinciples.org/
-
-kkndme
-
+达里欧经济研究报告(https://www.economicprinciples.org/)  
+经济学人  
+中国是部金融史1/2  
+kkndme  
+长铗区块链  
+智库(如50人论坛，40人论坛，林毅夫 张维迎 刘鹤 黄奇帆等等)
+李丰投资理论  
+比尔盖茨碳模型  
+王小川  王兴  
 
 #### 价值
 
