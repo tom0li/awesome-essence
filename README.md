@@ -217,7 +217,7 @@ Table of Contents
 - 有个同事提到多招女生来活跃气氛，我晕，果然小年轻的想法，这是分心不是活跃，难道学支付宝美腿招聘么。周末想了想，应该是其实能看到产品在进步、用户体验在提高，自己在修炼进步，交流沟通中有智慧有火花，个人回报满意有提高，就是high的关键。
 - 如何吸引人才：我总结（总结不表示我做好了，而是认识到要做好）四个要素：【短期回报】、【长期回报】、【个人成长】、【精神生活】。从左到右，从易到难，其中丰富不一般的人生体验和精神生活是最综合要求最高的，要不断反思追求，99房会努力做好！欢迎优秀的技术人才、产品人才加入一起共事。- by 张一鸣
 - 不患人之不己知，患不知人也。 - by 孔子
-- 进化则活着 - by tom0li
+- 进化则活着，矛盾则活着 - by tom0li
 - 讲话者是客观的视角，对很多词语有自己的定义，其他人会不理解，甚至经常误解讲话者。 - by tom0li
 - 关于孤独，一个人独处是有很多好玩的事情，这个世界这么多好玩的，可以忽略孤独。- by tom0li
 - 联合好身体的每个细胞，统一思想，团结协作，合众为一 是人类发展快的底层逻辑。玩也是。 - by tom0li
@@ -455,8 +455,12 @@ https://github.com/tom0li/awesome-essence/blob/main/run.md
 文书网
 
 ## 社会学
-费孝通
-项飙
+费孝通  
+项飙  
+《金瓶梅》  
+《中国农民调查》
+《阿Q正传》  
+《鲁迅全集》
 
 ## 心理学
 ### 人们社交过程的部分弱点
@@ -513,6 +517,9 @@ kkndme
 
 ## 人类学
 
+文学交叉严重故不列出
+
+
 # 自然科学(目前偏向创投圈)
 ## 科技趋势
 - [List_of_emerging_technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies#Agriculture)
@@ -561,7 +568,7 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 - [神经现实](https://www.neu-reality.com/)神经漫游门户 主要以文章形式展示
 - [凝眸 blog](https://neuromoment.cn/)
 - [美国认知科学协会](https://cognitivesciencesociety.org/) Welcome to the Cognitive Science Society (CSS). The mission of the Society is to promote Cognitive Science as a discipline, and to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education.  
-脑人言公众号  
+- 脑人言公众号  
 
 ## 医学
 - [柳叶刀](https://www.thelancet.com/)
@@ -572,7 +579,6 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 - [小程序]() 微信搜索小道消息或腾讯健康，关于医学百科、附近就诊医院信息
 - [丁香通](https://www.biomart.cn/) 科研人员买商品的网站
 - [WHO](https://www.who.int/)
-- [谈养生](https://tom0li.github.io/%E8%B0%88%E5%85%BB%E7%94%9F/)
 
 ## 生物学
 ### 从生物学理解演讲
@@ -1414,17 +1420,19 @@ leader也是人嘛，是人，当然就有正常沟通的需要，只要不是�
 ```
 
 ### 为什么不在公司(by tom0li)
+```
 1、路线问题：在公司发展路线偏移人生路线  
 2、初心：偏离初心，所在公司已经没什么可学，已经没有优秀的人供学习，同化其优秀的精神思想，不是优解。
 3、身体原因
-
+```
 ### 计算机面试要求(by tom0li)
+```
 计算机基础  
 提出问题能力  
 思考问题  
 理解讲故事能力  
 动手能力  
-
+```
 ### CSO
 参考各大CSO blog
 ### CIO
