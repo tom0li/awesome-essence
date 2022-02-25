@@ -28,6 +28,8 @@ An in-painting tour from the National Gallery, London
   - [书籍](#书籍)
     - [毛泽东选集](#毛泽东选集)
     - [毛泽东文集](#毛泽东文集)
+    - [毛泽东全集](#毛泽东全集)
+  - [马列著作](#马列著作)
 
 ## 诗词
 ### 离骚
@@ -652,4 +654,13 @@ http://marxistphilosophy.org/
 读书生活  
 大众哲学  
 阿Q正传  
+
+### 毛泽东全集
+
+## 马列著作
+中文马克思主义文库 https://www.marxists.org/chinese/  
+无产阶级github文库：https://github.com/ProletRevDicta/Prolet  
+无产阶级图书馆：https://library.proletarian.me  
+马列毛群众网：https://mlmmlm.icu/  
+马列毛主义图书馆 https://maozhuyi.home.blog/
 

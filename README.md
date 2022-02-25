@@ -642,7 +642,8 @@ Something with magnets (The Core, One Second After).
 ```
 https://lcamtuf.coredump.cx/prep/  
 https://www.jefftk.com/p/disasters  
-http://www.ggj.gov.cn/zwfwdt/zlxz/xzzxrfdt/201207/P020171207453341788605.pdf
+http://www.ggj.gov.cn/zwfwdt/zlxz/xzzxrfdt/201207/P020171207453341788605.pdf  
+https://card.weibo.com/article/m/show/id/2309404740707515499405
 
 ## 航空航天
 星际探测
