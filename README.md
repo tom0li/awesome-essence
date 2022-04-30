@@ -245,6 +245,10 @@ Table of Contents
 - 向前看  -by 邓
 - 保存体力  -by tom0li
 - 顺势：广大人民。如何避免站到广大人民对立面？古希腊文明的政治制度对比 元朝国家制度，是人民和国家的平衡。历史将产生新的组织形式。  -by tom0li
+- 精神物质，两个 组织或个人，在精神上无法形成有效交流、在物质上无相互依赖，将保持距离。  -by tom0li
+- 墓志铭写什么   -by tom0li
+- 前百分之几并不靠前，中国14亿人口，前百分之一有1400w。百万分之一有1400个。   -by tom0li
+- 可以买一点医疗保险，不要买投资型保险
 
  
 王兴语录(从上万语录中摘选)
@@ -371,22 +375,24 @@ kkndme  - 洽谈房地产历史与未来
 
 秦晖
 沈志华  - 苏联历史、现代中朝美苏关系研究
-高华    - 近代伟人历史 
+高华    - 近代伟人历史，治史者 
 韩刚    - 反右历史研究者
 牛军    - 朝鲜战争 
 李丹慧  - 珍宝岛事件
 杨奎松
-傅高义   - 历史学家
-杨继-  
+傅高义   - 历史学家，邓的时代仍将继续
+杨继绳  
 鲁迅
 钱穆
-茅海建
+茅海建   - 天朝崩溃 鸦片战争
 陈桂棣
 当年明月
 费孝通
 冯军奇   - 地方干部生活记录
 司马迁
 陈寅恪
+李强     - 社会分层
+田余庆
 
 任正非  - 任正非讲话 领袖的讲话 
 达里欧  - 分享人生原则，看世界经济发展
@@ -587,12 +593,14 @@ NFT：个人认为主要看是谁的作品和作品的价值，即个人IP
 - [2020年达摩院十大技术趋势](https://damo.alibaba.com/events/58)
 
 ## 神经科学&认知科学&脑科学
+刚发现一粒光，属于初级阶段。意识等话题还未入门。
 - [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 - [神经漫游播客](https://neuromancing.fireside.fm/) 定期几个学生和教授进行对话。神经现实是公益的科学传播组织，专注于神经科学、认知科学和精神病学等领域的深度报道和前沿解读。
 - [神经现实](https://www.neu-reality.com/)神经漫游门户 主要以文章形式展示
 - [凝眸 blog](https://neuromoment.cn/)
 - [美国认知科学协会](https://cognitivesciencesociety.org/) Welcome to the Cognitive Science Society (CSS). The mission of the Society is to promote Cognitive Science as a discipline, and to foster scientific interchange among researchers in various areas of study, including Artificial Intelligence, Linguistics, Anthropology, Psychology, Neuroscience, Philosophy, and Education.  
 - 脑人言公众号  
+
 
 ## 医学
 - [柳叶刀](https://www.thelancet.com/)
@@ -843,10 +851,13 @@ https://tom0li.github.io/%E8%B0%88%E5%85%BB%E7%94%9F/
 专注
 语言场景化
 持久力
+情绪力量
 向前看
 反馈体系
 性力量
 果敢
+判断力（存疑
+底层规律 根本 事物的背后背后 主要矛盾 矛盾的主要方面
 ```
 
 ## 职场
@@ -1617,11 +1628,11 @@ and so on 资源
 https://headsalon.org/archives/8720.html
 
 ### 客服
-客服培训客服话术，漏洞
+培训客服话术，漏洞
 
 
 ### 护士
-日夜颠倒，换不完的药，挂水，测血糖，测血压记录，写交班，两万步左右，连班没时间吃饭
+日夜颠倒，换药，挂水，测血糖，测血压记录，写交班，日行两万步左右，连班没时间吃饭
 
 ### 产品经理
 道哥对产品经理的定义，市场洞察能力，也是我经常提的要洞察世界内容之一。  
@@ -1645,3 +1656,4 @@ https://www.zhihu.com/people/yanshi2020
 ### 民警
 派出所的故事  
 解放西  
+
