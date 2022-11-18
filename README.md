@@ -1,6 +1,7 @@
 
 title: Awesome-Essence
 
+
 > 本页面展示一些事物的原理、规则、规律、逻辑、背后的背后、奇奇怪怪的和安全相关的东西。可能有些形式科学（如数学），研究抽象概念；自然科学（如生物学、物理学、医学），在最宽泛的意义上研究自然；以及社会科学（如经济学、心理学、社会学），研究个体与社会。
 
 ```
@@ -40,12 +41,6 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
       - [博弈论](#博弈论)
     - [元宇宙(by tom0li)](#元宇宙by-tom0li)
     - [区块链(by tom0li)](#区块链by-tom0li)
-    - [人工智能(by tom0li)](#人工智能by-tom0li)
-      - [判断是否是机器人](#判断是否是机器人)
-    - [交互设备](#交互设备)
-      - [脑机接口](#脑机接口)
-      - [穿戴设备](#穿戴设备)
-    - [培植肉 人造蛋](#培植肉-人造蛋)
     - [市场营销](#市场营销)
     - [财政税务](#财政税务)
     - [文学](#文学)
@@ -55,9 +50,13 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [医学](#医学)
   - [生物学](#生物学)
     - [why do we have sex](#why-do-we-have-sex)
-    - [灾难计划](#灾难计划)
-      - [末日计划](#末日计划)
-      - [非常时期囤货手册](#非常时期囤货手册)
+  - [人工智能(by tom0li)](#人工智能by-tom0li)
+    - [人体改造](#人体改造)
+      - [判断是否是机器人](#判断是否是机器人)
+    - [交互设备](#交互设备)
+      - [脑机接口](#脑机接口)
+      - [穿戴设备](#穿戴设备)
+  - [培植肉 人造蛋](#培植肉-人造蛋)
   - [航空航天](#航空航天)
   - [宇宙学](#宇宙学)
   - [外来物种](#外来物种)
@@ -105,6 +104,9 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
   - [关于现金流(by tom0li)](#关于现金流by-tom0li)
   - [关于消费(by tom0li)](#关于消费by-tom0li)
   - [关于勤俭节约(by tom0li)](#关于勤俭节约by-tom0li)
+  - [灾难计划(by tom0li)](#灾难计划by-tom0li)
+    - [末日计划](#末日计划)
+    - [非常时期囤货手册](#非常时期囤货手册)
   - [画作为什么值钱(by tom0li)](#画作为什么值钱by-tom0li)
   - [关于创业(by tom0li)](#关于创业by-tom0li)
   - [关于隐私保护与数据安全(by tom0li)](#关于隐私保护与数据安全by-tom0li)
@@ -1170,25 +1172,10 @@ we are family
 
 NFT：个人认为主要看是谁的作品(即个人IP)和作品的价值
 
-### 人工智能(by tom0li)
-还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。
-
-#### 判断是否是机器人
-假设未来某一天交男女朋友，怎么判断是否是机器人?  
-error
-
-### 交互设备
-#### 脑机接口
-#### 穿戴设备
-
-### 培植肉 人造蛋
-高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
-
 ### 市场营销
 - [市场营销：管理盈利性客户关系](https://www.cnblogs.com/LittleHann/p/14363067.html#)
 - [Marketing-for-Engineers 营销产品](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
 
-    
 ### 财政税务
 
 ### 文学
@@ -1233,45 +1220,20 @@ error
 * [why-people-have-sex](https://www.webmd.com/sex-relationships/features/why-people-have-sex) 列出20个原因
 * [why do we have sex](https://www.youtube.com/watch?v=rTFqo81Ci_0) 从生物进化角度讲解
 
-### 灾难计划
-#### 末日计划
-1 小灾难
-```
-破产
-获得水、食物、能源或交通的中断
-失去住所
-事故伤害
-故意伤害
-使人衰弱的疾病或死亡
-```
-2 大规模灾难
-```
-自然灾害
-工业事故
-社会动荡
-经济危机
-大流行病
-恐怖主义或常规战争
-```
-3 解决困难的灾难
-```
-独特的致命疾病
-荒谬的极端天气异常
-极权主义技术反乌托邦
-全球热核战争
-决定杀死所有人类的机器人(这时sec的力量有了释放的地方)
-无礼的外星人
-生态系统崩溃
-宇宙碰撞
-Something with magnets (The Core, One Second After).
-```
-https://lcamtuf.coredump.cx/prep/  
-https://www.jefftk.com/p/disasters  
-http://www.ggj.gov.cn/zwfwdt/zlxz/xzzxrfdt/201207/P020171207453341788605.pdf  
-https://card.weibo.com/article/m/show/id/2309404740707515499405
+## 人工智能(by tom0li)
+还比较遥远，目前处于机器学习阶段，是未来发展方向，但是以10-20年为单位推进。
+### 人体改造
 
-#### 非常时期囤货手册
-https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
+#### 判断是否是机器人
+假设未来某一天交男女朋友，怎么判断是否是机器人?  
+error
+
+### 交互设备
+#### 脑机接口
+#### 穿戴设备
+
+## 培植肉 人造蛋
+高成本肉类培养合成，粮食供应效率 降低能量消耗 温室气体 土地占用
 
 ## 航空航天
 星际探测
@@ -1813,6 +1775,47 @@ and so on 资源
 
 ## 关于勤俭节约(by tom0li)
 - 如果感觉勤俭节约有困难，可以看看近百年历史，看看现在的非洲、中东、南亚次大陆平民生活 - by tom0li
+
+
+## 灾难计划(by tom0li)
+### 末日计划
+1 小灾难
+```
+破产
+获得水、食物、能源或交通的中断
+失去住所
+事故伤害
+故意伤害
+使人衰弱的疾病或死亡
+```
+2 大规模灾难
+```
+自然灾害
+工业事故
+社会动荡
+经济危机
+大流行病
+恐怖主义或常规战争
+```
+3 解决困难的灾难
+```
+独特的致命疾病
+荒谬的极端天气异常
+极权主义技术反乌托邦
+全球热核战争
+决定杀死所有人类的机器人(这时sec的力量有了释放的地方)
+无礼的外星人
+生态系统崩溃
+宇宙碰撞
+Something with magnets (The Core, One Second After).
+```
+https://lcamtuf.coredump.cx/prep/  
+https://www.jefftk.com/p/disasters  
+http://www.ggj.gov.cn/zwfwdt/zlxz/xzzxrfdt/201207/P020171207453341788605.pdf  
+https://card.weibo.com/article/m/show/id/2309404740707515499405
+
+### 非常时期囤货手册
+https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810
 
 ## 画作为什么值钱(by tom0li)
 画一幅画，对于作者没有转变为流通的货币前只是一幅画 0$。当形成共识时便有了交易，一些人热爱画，热爱收藏画，喜爱这幅画便花钱买它，假设花1k$。一些人出于民族情节，这是我民族像太阳的一样的存在，人类历史上的伟大作品，愿意买画。另一些人出于投资、货币保值的目的也愿意买画并出价10000$，民族人士出价20000$。一些人出于社交目的出价2000000$(一个是批量全民、一个是定向小团体或单人)。一些人出于高人一等的目的，谈论艺术，在贵族圈赏画谈画，出价20000000$。一些人出于old Money目的，购买花费2000000000$。一些人出于政治目的。......
