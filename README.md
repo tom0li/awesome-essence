@@ -1,11 +1,6 @@
----
+
 title: Awesome-Essence
-description: Awesome-Essence 3年计划
-tagline: Awesome-Essence
-date: 2020-1-8 9:50:30
-tags: [Awesome-Essence,Plan,Awesome,Essence,原理,规则,规律,逻辑,Logic,背后的背后]
-toc: true
----
+
 
 > 本页面展示一些事物的原理、规则、规律、逻辑、背后的背后、奇奇怪怪的和安全相关的东西。可能有些形式科学（如数学），研究抽象概念；自然科学（如生物学、物理学、医学），在最宽泛的意义上研究自然；以及社会科学（如经济学、心理学、社会学），研究个体与社会。
 
