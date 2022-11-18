@@ -1,4 +1,6 @@
 
+title: Awesome-Essence
+
 > 本页面展示一些事物的原理、规则、规律、逻辑、背后的背后、奇奇怪怪的和安全相关的东西。可能有些形式科学（如数学），研究抽象概念；自然科学（如生物学、物理学、医学），在最宽泛的意义上研究自然；以及社会科学（如经济学、心理学、社会学），研究个体与社会。
 
 ```
@@ -153,8 +155,8 @@ Created over 5,000 days by the groundbreaking artist, this monumental collage wa
 #### 自由意志(by tom0li)
 背景:  
 关于自由意志，不同科学家有不同的实验、模型，到目前没有证明该事情  
-之前知道此事是通过国外电影探讨过程中了解的，当时认为是按不同想法，不同行为要区分对待，这里分享下搜狗王小川的解析。  
-回答是: 有也没有  
+之前知道此事是通过国外电影探讨过程中了解的，当时认为是按不同想法，不同行为要区分对待。  
+这里分享下搜狗王小川的解析。回答: 有也没有  
 有的解释是平行宇宙人可以作出一定的选择增加概率  
 没有的解释是拿了一些物理实验，物理实验说的不是很具体(存疑)，解释了人是怎么看时间的、人此时做事存在的意义
 
@@ -1494,6 +1496,7 @@ A strategy is a long term plan of action designed to achieve a particular goal. 
 ## 关于快乐(by tom0li)  
 - 快乐是可以生产的  -by tom0li
 - 追寻人性尊严的快乐  -by 罗翔
+
 ## 关于未来安全(by tom0li)  
 以后占据人类大量时间的虚拟世界，研究脑机安全、云基础设施安全比较有趣
 
@@ -1843,7 +1846,9 @@ https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
 组织存在的根本原因、保障因素、权力来源、权力分配规则、权力大小区别、权力相互作用？
 
 ## 关于利用科学技术(by tom0li)
-1、提供物质保障(社会主义)   2、看世界的思路(世界观)   3、解决具体问题
+1、提供物质保障(社会主义)  
+2、看世界的思路(世界观)  
+3、解决具体问题  
 
 ## 关于国际关系(by tom0li)
 https://tom0li.github.io/awesome-essence/#%E5%8E%86%E5%8F%B2%E4%BA%BAby-tom0li
@@ -1907,7 +1912,7 @@ https://headsalon.org/archives/8720.html
 
 ## 产品经理
 道哥对产品经理的定义，市场洞察能力，也是我经常提的要洞察世界内容之一。  
-https://mp.weixin.qq.com/s?src=11&timestamp=1638537719&ver=3474&signature=bTvxfqtEDoGR62a9F-9ASEttLJqYw49l3kdVpkpIVuoTn1nzdkBsDtWn0zbhnqCzBUSjcGEQBhcKOqy4BJlaW*W4WSIcMYHjGq5DwNJPRe61YZ-v7kL2cpyg2Jqy-5Wx&new=1
+https://mp.weixin.qq.com/s/Qfo0UsHY6LNbrMxTJ6FtbQ
 
 ## 爸爸
 haozi 分享的日常  
